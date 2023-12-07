@@ -7,7 +7,7 @@ This is my home page! Ny name is Rosa Velasquez and I am a student at [Cal State
 
 My GitHub page is http://github.com/zosa2730
 
-### CPSC 120
+### CPSC 120 -
 
 Lab 8, part 1 
 Was one of my favorites because it taught me how coding affects the restaurant environment. Learning the different types of situations to code for when someone chooses to make a sandwich. Like the different bread types, protein, and condiments, it was very interesting to see all the values and variables that take place. It helped me understand the inner working of applications where someone chooses their own meal for an online order. 
